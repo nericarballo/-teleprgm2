@@ -1,0 +1,16 @@
+C:\FP\bin\Debug\net5.0\FP.exe
+C:\FP\bin\Debug\net5.0\FP.deps.json
+C:\FP\bin\Debug\net5.0\FP.runtimeconfig.json
+C:\FP\bin\Debug\net5.0\FP.runtimeconfig.dev.json
+C:\FP\bin\Debug\net5.0\FP.dll
+C:\FP\bin\Debug\net5.0\ref\FP.dll
+C:\FP\bin\Debug\net5.0\FP.pdb
+C:\FP\obj\Debug\net5.0\FP.csprojAssemblyReference.cache
+C:\FP\obj\Debug\net5.0\FP.GeneratedMSBuildEditorConfig.editorconfig
+C:\FP\obj\Debug\net5.0\FP.AssemblyInfoInputs.cache
+C:\FP\obj\Debug\net5.0\FP.AssemblyInfo.cs
+C:\FP\obj\Debug\net5.0\FP.csproj.CoreCompileInputs.cache
+C:\FP\obj\Debug\net5.0\FP.dll
+C:\FP\obj\Debug\net5.0\ref\FP.dll
+C:\FP\obj\Debug\net5.0\FP.pdb
+C:\FP\obj\Debug\net5.0\FP.genruntimeconfig.cache
