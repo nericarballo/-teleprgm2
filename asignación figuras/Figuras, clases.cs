@@ -31,7 +31,6 @@ public abstract class figura
 	public abstract float area {get;}
 	public override string ToString (){
 	return string.Format("el perímetro de la figura es de {0} unidades y su área es de {1} unidades cuadradas\n", perimetro, area); 
-	// oughta make a Perímetro and Area for each one, si queda tiempo no se te olvide revisar si le puedes dar un nombre a esto.
 	}
 }
 
