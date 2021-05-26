@@ -54,7 +54,12 @@ public class cuadrilatero:figura {
 	public cuadrilatero(float lado1, float lado2)
    {
 	  A = lado1;
-      B = lado2;	 
+          B = lado2;	 
+   }
+	public cuadrilatero(float lado1)
+   {
+	  A = lado1;
+          B = lado1;	 
    }
 }
 public class circulo:figura {
@@ -102,8 +107,7 @@ public class Program
 			int t= Int32.Parse(Console.ReadLine());
 			
 			if (t==1) {Console.WriteLine("Tamaño de sus lados:");
-					  float lado = float.Parse(Console.ReadLine());
-					  figuras [j] = new cuadrilatero (lado, lado);
+					  figuras [j] = new cuadrilatero (float.Parse(Console.ReadLine()));
 					  Console.Write("con ese valor tenemos que ");
 					  Console.Write(figuras [j]); 
 					  cuad++;
