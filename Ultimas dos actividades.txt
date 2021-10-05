@@ -1,0 +1,5 @@
+Aquí los links de la página, por si acaso llegara a no funcionar en Visual studio:
+
+Para promedio: https://dotnetfiddle.net/N3t9l0
+
+Para La string por partes: https://dotnetfiddle.net/xUUTwZ
